@@ -1,0 +1,17 @@
+.titulo-destaque {
+    color: #1b2a4a;
+}
+
+.texto-padrao {
+    color: #333333;
+    font-family: Arial, sans-serif;
+}
+
+#cabecalho-principal {
+    background-color: #f0f4f8;
+    border-bottom: 2px solid #1b2a4a;
+}
+
+.secao-banner {
+    background-color: #e2e8f0;
+}

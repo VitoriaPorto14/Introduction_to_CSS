@@ -1,0 +1,14 @@
+#titulo-principal {
+    color: #1b2a4a;
+    border: 1px solid #1b2a4a;
+}
+
+.titulo-secao {
+    color: #4a5d6e;
+    border: 1px solid #4a5d6e;
+}
+
+.texto {
+    color: #333333;
+    border: 1px solid #ccc;
+}
